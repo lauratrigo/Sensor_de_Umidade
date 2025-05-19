@@ -63,6 +63,6 @@ Este projeto foi desenvolvido por Laura Trigo, com base na bibliografia citada n
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-<p align="center">
-  <img src="image.png" alt="Circuito no Simulador" width="500" />
-</p>
+<div align="center">
+  <img src="images/image.png" alt="Circuito no Simulador" width="500">
+</div>
